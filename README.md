@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.dadoudou117.com">
-    <img src="https://www.dadoudou117.com/favicon.svg" alt="Dadoudou Logo" width="120"/>
+   https://www.dadoudou117.com
   </a>
 </p>
 
