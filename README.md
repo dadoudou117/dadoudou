@@ -1,4 +1,4 @@
-# Dadoudou (打豆豆) - 官方资源与文档中心
+# 打豆豆 - 官方资源与文档中心
 
 <p align="center">
   <a href="https://www.dadoudou117.com">
