@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.dadoudou117.com">
-    https://www.dadoudou117.com
+    <img src="https://www.dadoudou117.com/favicon.svg" alt="Dadoudou Logo" width="120"/>
   </a>
 </p>
 
@@ -14,12 +14,13 @@
 
 <p align="center">
   <a href="https://www.dadoudou117.com/services"><strong>官网服务</strong></a> ·
+  <a href="https://www.dadoudou117.com/docs"><strong>API 文档</strong></a> ·
   <a href="https://www.dadoudou117.com/blog"><strong>博客文章</strong></a> ·
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Service Status">
-  <img src="https://img.shields.io/github/stars/dadoudou117/dadoduou?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/dadoudou117/dadoudou?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/badge/Tech-Next.js-blue" alt="Technology">
 </p>
 
@@ -29,7 +30,7 @@
 
 在当今的数字世界，您的手机号码与几乎所有在线身份绑定。使用真实号码注册各种服务，不仅可能导致隐私泄露和无尽的垃圾短信，还会在多账户管理时带来风险。
 
-**打豆豆提供了一个完美的解决方案。**
+**Dadoudou (打豆豆) 提供了一个完美的解决方案。**
 
 通过我们的平台，您可以轻松获取一个临时的、匿名的手机号码，专门用于接收短信验证码。
 
@@ -51,7 +52,7 @@
 
 ## 🚀 如何开始 (Getting Started)
 
-1.  **访问官网**: 前往 [**www.dadoudou117.com**](https://www.dadoudou117.com)
+1.  **访问官网**: 前往 [**https://www.dadoudou117.com**](https://www.dadoudou117.com)
 2.  **选择服务**: 根据您的需求选择合适的国家和项目。
 3.  **获取号码**: 立即获取一个可用于接收短信的虚拟号码。
 4.  **接收验证码**: 在我们的平台界面上查看您收到的验证码。
@@ -63,6 +64,7 @@
 *   **深度阅读**: 访问我们的[官方博客](https://www.dadoudou117.com/blog)，了解更多关于隐私保护和网络安全的知识。
     *   [《游戏玩家必看：如何为 Steam、Discord 等平台设置安全的备用手机验证》](https://www.dadoudou117.com/blog/gamer-sms-verification)
     *   [《电商卖家指南：如何批量注册店铺账号而不被关联》](https://www.dadoudou117.com/blog/ecommerce-seller-guide-bulk-account-registration)
+
 ---
 
 <p align="center">
